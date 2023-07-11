@@ -5,7 +5,7 @@
 * 
 *  Name: Savan Chauhan Student ID: 134823210 Date: 2023-07-11
 *
-*  Cyclic Web App URL: https://careful-yoke-moth.cyclic.app/
+*  Cyclic Web App URL: https://careful-yoke-moth.cyclic.app
 *
 *  GitHub Repository URL: https://github.com/SavanKumarChauhan/web322-app.git
 *
